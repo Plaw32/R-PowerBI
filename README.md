@@ -2,6 +2,8 @@
 
 Aim: Clean and Export data from R and create PowerBI visualization based on the following criteria.
 
+Data: Film, Genre, Lead Studio, Audience Score, Profitability, Rotten Tomatoes, Worldwide Gross, Year.
+
 
 -The average Rotten Tomatoes ratings of each genre 
 
