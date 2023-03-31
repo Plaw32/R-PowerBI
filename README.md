@@ -1,6 +1,7 @@
 # R-PowerBI
 
-PowerBI visualization was done using the following criteria.
+Aim: Clean and Export data from R and create PowerBI visualization based on the following criteria.
+
 
 -The average Rotten Tomatoes ratings of each genre 
 
